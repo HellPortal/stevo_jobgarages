@@ -1,0 +1,52 @@
+{
+    "notify": {
+        "notAuthorized": "Bu işlem için yetkiniz yetersiz!",
+        "cancelledSpawn": "Araç Çıkartma İptal Edildi",
+        "vehicleSpawned": "%s başarıyla çıkartıldı",
+        "setPlate": "Plaka Ayarlandı: %s",
+        "vehicleRepaired": "Araç Tamir Edildi",
+        "vehicleRepairCancelled": "Araç Tamiri İptal Edildi",
+        "storeVehicle": "Araç garaja koyuldu",
+        "invalidModel": "Bu araç modeli geçersiz."
+    },
+
+    "textui": {
+        "opengarage": "**[E]** Garajı Aç"
+    },
+
+    "progress": {
+        "repairingVehicle": "Araç Tamir Ediliyor..."
+    },
+
+    "target": {
+        "open": "%s Yönet"
+    },
+
+    "menu": {
+        "mechanicTitle": "Filo Hizmetleri",
+        "changeExtras": "Ekstra Değiştir",
+        "changeLivery": "Kaplama Değiştir",
+        "changeColor": "Renk Değiştir",
+        "repairVehicle": "Aracı Tamir Et",
+        "changePlate": "Plaka Değiştir",
+        "livery": "Kaplama: %s",
+        "extra": "Ekstra: %s",
+        "changePrimaryColor": "Birincil Rengi Değiştir",
+        "changeSecondaryColor": "İkincil Rengi Değiştir",
+        "inVehicle": "Garaj",
+        "storeVehicle": "Aracı Garaja Koy"
+    },
+
+    "alert": {
+        "confirmSpawnTitle": "**%s** aracını çıkarmak istediğinize emin misiniz?",
+        "cancelSpawn": "Çıkarmayı İptal Et",
+        "confirmSpawn": "Çıkarmayı Onayla"
+    },
+
+    "input": {
+        "color": "Filo Hizmetleri (BOYA)",
+        "colorLabel": "Renk Girişi",
+        "plate": "Plaka Değişimi",
+        "plateDescription": "1-8 karakter arasında olmalıdır"
+    }
+}
